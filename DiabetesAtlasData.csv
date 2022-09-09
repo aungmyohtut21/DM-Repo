@@ -1,322 +1,320 @@
-SVI Theme: Overall SVI; Overall SVI (Percentile); NaturalBreaks
-Data downloaded on 8-September-2022
 Year,County_FIPS,County,State,Diagnosed Diabetes Percentage,Overall SVI
-2018,01001,Autauga County,Alabama,9.5,0.4354
-2018,01003,Baldwin County,Alabama,8.4,0.2162
-2018,01005,Barbour County,Alabama,13.5,0.9959
-2018,01007,Bibb County,Alabama,10.2,0.6003
-2018,01009,Blount County,Alabama,10.5,0.4242
-2018,01011,Bullock County,Alabama,9.4,0.8898
-2018,01013,Butler County,Alabama,10.9,0.8653
-2018,01015,Calhoun County,Alabama,12.9,0.8252
-2018,01017,Chambers County,Alabama,12,0.7382
-2018,01019,Cherokee County,Alabama,10.5,0.4516
-2018,01021,Chilton County,Alabama,14.4,0.7602
-2018,01023,Choctaw County,Alabama,11,0.8748
-2018,01025,Clarke County,Alabama,14.3,0.8471
-2018,01027,Clay County,Alabama,8.6,0.564
-2018,01029,Cleburne County,Alabama,8.3,0.5417
-2018,01031,Coffee County,Alabama,13.8,0.5408
-2018,01033,Colbert County,Alabama,12.3,0.4274
-2018,01035,Conecuh County,Alabama,11.2,0.8086
-2018,01037,Coosa County,Alabama,9.5,0.5261
-2018,01039,Covington County,Alabama,11.9,0.7723
-2018,01041,Crenshaw County,Alabama,10.7,0.6873
-2018,01043,Cullman County,Alabama,11,0.5182
-2018,01045,Dale County,Alabama,11.7,0.7599
-2018,01047,Dallas County,Alabama,13.9,0.949
-2018,01049,Dekalb County,Alabama,11.1,0.8022
-2018,01051,Elmore County,Alabama,12.1,0.5401
-2018,01053,Escambia County,Alabama,13.5,0.8557
-2018,01055,Etowah County,Alabama,13.8,0.6564
-2018,01057,Fayette County,Alabama,9.4,0.7038
-2018,01059,Franklin County,Alabama,9.5,0.8417
-2018,01061,Geneva County,Alabama,11.2,0.7955
-2018,01063,Greene County,Alabama,12.1,0.9854
-2018,01065,Hale County,Alabama,10.4,0.9599
-2018,01067,Henry County,Alabama,9.8,0.5519
-2018,01069,Houston County,Alabama,14.2,0.6838
-2018,01071,Jackson County,Alabama,10.5,0.5726
-2018,01073,Jefferson County,Alabama,11.2,0.6621
-2018,01075,Lamar County,Alabama,11.8,0.6264
-2018,01077,Lauderdale County,Alabama,9.9,0.4468
-2018,01079,Lawrence County,Alabama,9.1,0.4952
-2018,01081,Lee County,Alabama,9.9,0.6602
-2018,01083,Limestone County,Alabama,11.3,0.5296
-2018,01085,Lowndes County,Alabama,11.8,0.9188
-2018,01087,Macon County,Alabama,11.2,0.8971
-2018,01089,Madison County,Alabama,10.7,0.3076
-2018,01091,Marengo County,Alabama,12.8,0.7621
-2018,01093,Marion County,Alabama,9.7,0.671
-2018,01095,Marshall County,Alabama,9.8,0.7261
-2018,01097,Mobile County,Alabama,11.9,0.7532
-2018,01099,Monroe County,Alabama,11.6,0.7481
-2018,01101,Montgomery County,Alabama,14.2,0.8427
-2018,01103,Morgan County,Alabama,9.4,0.6895
-2018,01105,Perry County,Alabama,13.4,0.9949
-2018,01107,Pickens County,Alabama,10.9,0.9207
-2018,01109,Pike County,Alabama,10.3,0.9016
-2018,01111,Randolph County,Alabama,11,0.7191
-2018,01113,Russell County,Alabama,10,0.9115
-2018,01117,Shelby County,Alabama,8.8,0.1169
-2018,01115,St. Clair County,Alabama,10.6,0.3656
-2018,01119,Sumter County,Alabama,11.7,0.9557
-2018,01121,Talladega County,Alabama,14.2,0.8736
-2018,01123,Tallapoosa County,Alabama,10.6,0.8863
-2018,01125,Tuscaloosa County,Alabama,11.8,0.6255
-2018,01127,Walker County,Alabama,11.2,0.7452
-2018,01129,Washington County,Alabama,11.2,0.7303
-2018,01131,Wilcox County,Alabama,11.2,0.928
-2018,01133,Winston County,Alabama,10.2,0.7025
-2018,02013,Aleutians East Borough,Alaska,9.3,0.5803
-2018,02016,Aleutians West Census Area,Alaska,7.9,0.4927
-2018,02020,Anchorage Municipality,Alaska,8.8,0.4602
-2018,02050,Bethel Census Area,Alaska,8,0.9748
-2018,02060,Bristol Bay Borough,Alaska,9.1,0.3525
-2018,02068,Denali Borough,Alaska,6.8,0.101
-2018,02070,Dillingham Census Area,Alaska,8.2,0.8682
-2018,02090,Fairbanks North Star Borough,Alaska,7.9,0.3446
-2018,02100,Haines Borough,Alaska,7.3,0.207
-2018,02105,Hoonah-Angoon Census Area,Alaska,7.3,0.4178
-2018,02110,Juneau City and Borough,Alaska,6.3,0.2987
-2018,02122,Kenai Peninsula Borough,Alaska,8.2,0.4073
-2018,02130,Ketchikan Gateway Borough,Alaska,8.8,0.5548
-2018,02150,Kodiak Island Borough,Alaska,7,0.7006
-2018,02158,Kusilvak Census Area,Alaska,7.4,0.9334
-2018,02164,Lake and Peninsula Borough,Alaska,8.5,0.7978
-2018,02170,Matanuska-Susitna Borough,Alaska,8.2,0.3172
-2018,02180,Nome Census Area,Alaska,7.8,0.9299
-2018,02185,North Slope Borough,Alaska,7.5,0.7344
-2018,02188,Northwest Arctic Borough,Alaska,11.6,0.9354
-2018,02195,Petersburg Census Area,Alaska,9.2,0.665
-2018,02198,Prince of Wales-Hyder Censu,Alaska,9.3,0.7662
-2018,02220,Sitka City and Borough,Alaska,7.3,0.4022
-2018,02230,Skagway Municipality,Alaska,6.6,0.1685
-2018,02240,Southeast Fairbanks Census Area,Alaska,8.7,0.5838
-2018,02261,Valdez-Cordova Census Area,Alaska,6.2,0.2704
-2018,02275,Wrangell City and Borough,Alaska,8.4,0.5618
-2018,02282,Yakutat City and Borough,Alaska,9,0.5873
-2018,02290,Yukon-Koyukuk Census Area,Alaska,9.9,0.8812
-2018,04001,Apache County,Arizona,12.3,0.9885
-2018,04003,Cochise County,Arizona,7.8,0.9064
-2018,04005,Coconino County,Arizona,6.9,0.7131
-2018,04007,Gila County,Arizona,9,0.899
-2018,04009,Graham County,Arizona,11,0.964
-2018,04011,Greenlee County,Arizona,8.8,0.6188
-2018,04012,La Paz County,Arizona,9.9,0.9236
-2018,04013,Maricopa County,Arizona,8,0.6354
-2018,04015,Mohave County,Arizona,9.4,0.8624
-2018,04017,Navajo County,Arizona,11.5,0.9955
-2018,04019,Pima County,Arizona,7.6,0.8828
-2018,04021,Pinal County,Arizona,11.7,0.8592
-2018,04023,Santa Cruz County,Arizona,9.4,0.9318
-2018,04025,Yavapai County,Arizona,7.2,0.521
-2018,04027,Yuma County,Arizona,9.5,0.9895
-2018,05001,Arkansas County,Arkansas,10,0.7787
-2018,05003,Ashley County,Arkansas,9.9,0.8576
-2018,05005,Baxter County,Arkansas,9.1,0.2793
-2018,05007,Benton County,Arkansas,9.1,0.2707
-2018,05009,Boone County,Arkansas,8,0.4379
-2018,05011,Bradley County,Arkansas,8.8,0.9803
-2018,05013,Calhoun County,Arkansas,6.8,0.5481
-2018,05015,Carroll County,Arkansas,6.5,0.5952
-2018,05017,Chicot County,Arkansas,7.6,0.9968
-2018,05019,Clark County,Arkansas,10.4,0.7892
-2018,05021,Clay County,Arkansas,7.6,0.6529
-2018,05023,Cleburne County,Arkansas,8.4,0.2083
-2018,05025,Cleveland County,Arkansas,8.5,0.5643
-2018,05027,Columbia County,Arkansas,13.6,0.9398
-2018,05029,Conway County,Arkansas,9.4,0.7589
-2018,05031,Craighead County,Arkansas,11.1,0.8041
-2018,05033,Crawford County,Arkansas,10.7,0.6105
-2018,05035,Crittenden County,Arkansas,12.7,0.9341
-2018,05037,Cross County,Arkansas,10.9,0.7013
-2018,05039,Dallas County,Arkansas,9.6,0.8777
-2018,05041,Desha County,Arkansas,8.8,0.9596
-2018,05043,Drew County,Arkansas,10.3,0.801
-2018,05045,Faulkner County,Arkansas,10.3,0.4774
-2018,05047,Franklin County,Arkansas,8.8,0.5943
-2018,05049,Fulton County,Arkansas,7.1,0.6688
-2018,05051,Garland County,Arkansas,10.2,0.828
-2018,05053,Grant County,Arkansas,9,0.3541
-2018,05055,Greene County,Arkansas,9.8,0.5834
-2018,05057,Hempstead County,Arkansas,10.6,0.9468
-2018,05059,Hot Spring County,Arkansas,10.5,0.8188
-2018,05061,Howard County,Arkansas,8,0.9045
-2018,05063,Independence County,Arkansas,7.6,0.7525
-2018,05065,Izard County,Arkansas,9,0.5697
-2018,05067,Jackson County,Arkansas,8.3,0.765
-2018,05069,Jefferson County,Arkansas,11.9,0.9436
-2018,05071,Johnson County,Arkansas,9.6,0.8768
-2018,05073,Lafayette County,Arkansas,8.1,0.7898
-2018,05075,Lawrence County,Arkansas,9.3,0.6471
-2018,05077,Lee County,Arkansas,10,0.9656
-2018,05079,Lincoln County,Arkansas,9.6,0.8134
-2018,05081,Little River County,Arkansas,8.5,0.6306
-2018,05083,Logan County,Arkansas,7.7,0.8045
-2018,05085,Lonoke County,Arkansas,9.7,0.3309
-2018,05087,Madison County,Arkansas,9.1,0.6535
-2018,05089,Marion County,Arkansas,8,0.5175
-2018,05091,Miller County,Arkansas,10.4,0.9124
-2018,05093,Mississippi County,Arkansas,14.9,0.9554
-2018,05095,Monroe County,Arkansas,8.2,0.8516
-2018,05097,Montgomery County,Arkansas,7.9,0.7
-2018,05099,Nevada County,Arkansas,9.6,0.8841
-2018,05101,Newton County,Arkansas,9.7,0.2815
-2018,05103,Ouachita County,Arkansas,11.1,0.8656
-2018,05105,Perry County,Arkansas,8.9,0.636
-2018,05107,Phillips County,Arkansas,13.6,0.9239
-2018,05109,Pike County,Arkansas,10,0.7124
-2018,05111,Poinsett County,Arkansas,11.7,0.8268
-2018,05113,Polk County,Arkansas,8.6,0.8949
-2018,05115,Pope County,Arkansas,11.5,0.7936
-2018,05117,Prairie County,Arkansas,7.7,0.6548
-2018,05119,Pulaski County,Arkansas,10.8,0.6287
-2018,05121,Randolph County,Arkansas,11,0.7166
-2018,05125,Saline County,Arkansas,8.7,0.3325
-2018,05127,Scott County,Arkansas,7.7,0.8873
-2018,05129,Searcy County,Arkansas,9.5,0.4376
-2018,05131,Sebastian County,Arkansas,11,0.8328
-2018,05133,Sevier County,Arkansas,11.7,0.7675
-2018,05135,Sharp County,Arkansas,9.2,0.6191
-2018,05123,St. Francis County,Arkansas,11.4,0.9691
-2018,05137,Stone County,Arkansas,8.6,0.5102
-2018,05139,Union County,Arkansas,10.4,0.8054
-2018,05141,Van Buren County,Arkansas,9.1,0.7226
-2018,05143,Washington County,Arkansas,9.9,0.6745
-2018,05145,White County,Arkansas,11.9,0.7446
-2018,05147,Woodruff County,Arkansas,8.5,0.849
-2018,05149,Yell County,Arkansas,9.5,0.8783
-2018,06001,Alameda County,California,6.6,0.4701
-2018,06003,Alpine County,California,7.3,0.7287
-2018,06005,Amador County,California,8.3,0.5334
-2018,06007,Butte County,California,8.9,0.8064
-2018,06009,Calaveras County,California,7.2,0.235
-2018,06011,Colusa County,California,7.1,0.7436
-2018,06013,Contra Costa County,California,7.6,0.4057
-2018,06015,Del Norte County,California,8.1,0.9713
-2018,06017,El Dorado County,California,6.4,0.1838
-2018,06019,Fresno County,California,9.6,0.9611
-2018,06021,Glenn County,California,7,0.8895
-2018,06023,Humboldt County,California,7.4,0.7605
-2018,06025,Imperial County,California,9.5,0.9978
-2018,06027,Inyo County,California,7.1,0.5701
-2018,06029,Kern County,California,10.5,0.9659
-2018,06031,Kings County,California,10.5,0.9707
-2018,06033,Lake County,California,8.2,0.9178
-2018,06035,Lassen County,California,7.7,0.5997
-2018,06037,Los Angeles County,California,9.1,0.7682
-2018,06039,Madera County,California,9.4,0.9541
-2018,06041,Marin County,California,6,0.2701
-2018,06043,Mariposa County,California,7.4,0.5293
-2018,06045,Mendocino County,California,8.3,0.8818
-2018,06047,Merced County,California,11.3,0.9717
-2018,06049,Modoc County,California,7.5,0.7516
-2018,06051,Mono County,California,6.8,0.1408
-2018,06053,Monterey County,California,8.2,0.799
-2018,06055,Napa County,California,7.5,0.5051
-2018,06057,Nevada County,California,5.1,0.2045
-2018,06059,Orange County,California,8,0.4191
-2018,06061,Placer County,California,6,0.1519
-2018,06063,Plumas County,California,6.9,0.2653
-2018,06065,Riverside County,California,9.6,0.7939
-2018,06067,Sacramento County,California,8.9,0.7338
-2018,06069,San Benito County,California,7.8,0.5245
-2018,06071,San Bernardino County,California,11.1,0.901
-2018,06073,San Diego County,California,7.8,0.5596
-2018,06075,San Francisco County,California,6.6,0.3911
-2018,06077,San Joaquin County,California,9.9,0.8892
-2018,06079,San Luis Obispo County,California,7.8,0.3739
-2018,06081,San Mateo County,California,7.4,0.265
-2018,06083,Santa Barbara County,California,6.8,0.7111
-2018,06085,Santa Clara County,California,8.3,0.3557
-2018,06087,Santa Cruz County,California,5.7,0.543
-2018,06089,Shasta County,California,8,0.7022
-2018,06091,Sierra County,California,6.9,0.0452
-2018,06093,Siskiyou County,California,6.6,0.7223
-2018,06095,Solano County,California,8.1,0.5911
-2018,06097,Sonoma County,California,7.8,0.4035
-2018,06099,Stanislaus County,California,9.4,0.8675
-2018,06101,Sutter County,California,9.6,0.8822
-2018,06103,Tehama County,California,7.7,0.9624
-2018,06105,Trinity County,California,6.9,0.7411
-2018,06107,Tulare County,California,10.2,0.9417
-2018,06109,Tuolumne County,California,6.7,0.4688
-2018,06111,Ventura County,California,7.6,0.4828
-2018,06113,Yolo County,California,7.8,0.6768
-2018,06115,Yuba County,California,8,0.942
-2018,08001,Adams County,Colorado,7.7,0.5892
-2018,08003,Alamosa County,Colorado,8.1,0.9452
-2018,08005,Arapahoe County,Colorado,7.1,0.2662
-2018,08007,Archuleta County,Colorado,5.6,0.257
-2018,08009,Baca County,Colorado,7.6,0.6086
-2018,08011,Bent County,Colorado,7.4,0.8981
-2018,08013,Boulder County,Colorado,5.5,0.1704
-2018,08014,Broomfield County,Colorado,6.1,0.049
-2018,08015,Chaffee County,Colorado,6.1,0.2389
-2018,08017,Cheyenne County,Colorado,7.3,0.2589
-2018,08019,Clear Creek County,Colorado,6.8,0.0197
-2018,08021,Conejos County,Colorado,8.1,0.9325
-2018,08023,Costilla County,Colorado,8.7,0.9379
-2018,08025,Crowley County,Colorado,7.5,0.893
-2018,08027,Custer County,Colorado,6.3,0.2433
-2018,08029,Delta County,Colorado,7,0.6866
-2018,08031,Denver County,Colorado,6.3,0.4197
-2018,08033,Dolores County,Colorado,6.9,0.1516
-2018,08035,Douglas County,Colorado,5.5,0.015
-2018,08037,Eagle County,Colorado,5.2,0.1369
-2018,08041,El Paso County,Colorado,6.6,0.3927
-2018,08039,Elbert County,Colorado,5.3,0
-2018,08043,Fremont County,Colorado,7.6,0.6525
-2018,08045,Garfield County,Colorado,5.7,0.351
-2018,08047,Gilpin County,Colorado,6.5,0.0022
-2018,08049,Grand County,Colorado,5.6,0.0987
-2018,08051,Gunnison County,Colorado,6.1,0.1392
-2018,08053,Hinsdale County,Colorado,6.9,0.0624
-2018,08055,Huerfano County,Colorado,7,0.5955
-2018,08057,Jackson County,Colorado,7.4,0.1137
-2018,08059,Jefferson County,Colorado,5.7,0.0627
-2018,08061,Kiowa County,Colorado,6.8,0.3188
-2018,08063,Kit Carson County,Colorado,6.9,0.5153
-2018,08067,La Plata County,Colorado,5.4,0.1086
-2018,08065,Lake County,Colorado,6.8,0.4452
-2018,08069,Larimer County,Colorado,5.3,0.1194
-2018,08071,Las Animas County,Colorado,9.3,0.8373
-2018,08073,Lincoln County,Colorado,6.8,0.4857
-2018,08075,Logan County,Colorado,8.1,0.628
-2018,08077,Mesa County,Colorado,7.1,0.5755
-2018,08079,Mineral County,Colorado,6.7,0.0261
-2018,08081,Moffat County,Colorado,7.1,0.5471
-2018,08083,Montezuma County,Colorado,8.6,0.4946
-2018,08085,Montrose County,Colorado,6.8,0.7153
-2018,08087,Morgan County,Colorado,7,0.7414
-2018,08089,Otero County,Colorado,8.5,0.9561
-2018,08091,Ouray County,Colorado,6.7,0.0239
-2018,08093,Park County,Colorado,5.9,0.0006
-2018,08095,Phillips County,Colorado,6.9,0.2955
-2018,08097,Pitkin County,Colorado,5.9,0.0656
-2018,08099,Prowers County,Colorado,7.8,0.9392
-2018,08101,Pueblo County,Colorado,9.1,0.8669
-2018,08103,Rio Blanco County,Colorado,6.3,0.3401
-2018,08105,Rio Grande County,Colorado,7.6,0.9586
-2018,08107,Routt County,Colorado,5.9,0.0634
-2018,08109,Saguache County,Colorado,8.2,0.807
-2018,08111,San Juan County,Colorado,7,0.1283
-2018,08113,San Miguel County,Colorado,6.5,0.0331
-2018,08115,Sedgwick County,Colorado,6.8,0.6936
-2018,08117,Summit County,Colorado,5.6,0.0707
-2018,08119,Teller County,Colorado,5.7,0.0729
-2018,08121,Washington County,Colorado,7.5,0.2822
-2018,08123,Weld County,Colorado,8,0.3994
-2018,08125,Yuma County,Colorado,6.8,0.5637
-2018,09001,Fairfield County,Connecticut,6.4,0.4497
-2018,09003,Hartford County,Connecticut,8.7,0.515
-2018,09005,Litchfield County,Connecticut,6.2,0.0818
-2018,09007,Middlesex County,Connecticut,6.5,0.1182
-2018,09009,New Haven County,Connecticut,8.8,0.5223
-2018,09011,New London County,Connecticut,8.3,0.3561
-2018,09013,Tolland County,Connecticut,7.2,0.0694
-2018,09015,Windham County,Connecticut,9.6,0.4232
+2018,1001,Autauga County,Alabama,9.5,0.4354
+2018,1003,Baldwin County,Alabama,8.4,0.2162
+2018,1005,Barbour County,Alabama,13.5,0.9959
+2018,1007,Bibb County,Alabama,10.2,0.6003
+2018,1009,Blount County,Alabama,10.5,0.4242
+2018,1011,Bullock County,Alabama,9.4,0.8898
+2018,1013,Butler County,Alabama,10.9,0.8653
+2018,1015,Calhoun County,Alabama,12.9,0.8252
+2018,1017,Chambers County,Alabama,12,0.7382
+2018,1019,Cherokee County,Alabama,10.5,0.4516
+2018,1021,Chilton County,Alabama,14.4,0.7602
+2018,1023,Choctaw County,Alabama,11,0.8748
+2018,1025,Clarke County,Alabama,14.3,0.8471
+2018,1027,Clay County,Alabama,8.6,0.564
+2018,1029,Cleburne County,Alabama,8.3,0.5417
+2018,1031,Coffee County,Alabama,13.8,0.5408
+2018,1033,Colbert County,Alabama,12.3,0.4274
+2018,1035,Conecuh County,Alabama,11.2,0.8086
+2018,1037,Coosa County,Alabama,9.5,0.5261
+2018,1039,Covington County,Alabama,11.9,0.7723
+2018,1041,Crenshaw County,Alabama,10.7,0.6873
+2018,1043,Cullman County,Alabama,11,0.5182
+2018,1045,Dale County,Alabama,11.7,0.7599
+2018,1047,Dallas County,Alabama,13.9,0.949
+2018,1049,Dekalb County,Alabama,11.1,0.8022
+2018,1051,Elmore County,Alabama,12.1,0.5401
+2018,1053,Escambia County,Alabama,13.5,0.8557
+2018,1055,Etowah County,Alabama,13.8,0.6564
+2018,1057,Fayette County,Alabama,9.4,0.7038
+2018,1059,Franklin County,Alabama,9.5,0.8417
+2018,1061,Geneva County,Alabama,11.2,0.7955
+2018,1063,Greene County,Alabama,12.1,0.9854
+2018,1065,Hale County,Alabama,10.4,0.9599
+2018,1067,Henry County,Alabama,9.8,0.5519
+2018,1069,Houston County,Alabama,14.2,0.6838
+2018,1071,Jackson County,Alabama,10.5,0.5726
+2018,1073,Jefferson County,Alabama,11.2,0.6621
+2018,1075,Lamar County,Alabama,11.8,0.6264
+2018,1077,Lauderdale County,Alabama,9.9,0.4468
+2018,1079,Lawrence County,Alabama,9.1,0.4952
+2018,1081,Lee County,Alabama,9.9,0.6602
+2018,1083,Limestone County,Alabama,11.3,0.5296
+2018,1085,Lowndes County,Alabama,11.8,0.9188
+2018,1087,Macon County,Alabama,11.2,0.8971
+2018,1089,Madison County,Alabama,10.7,0.3076
+2018,1091,Marengo County,Alabama,12.8,0.7621
+2018,1093,Marion County,Alabama,9.7,0.671
+2018,1095,Marshall County,Alabama,9.8,0.7261
+2018,1097,Mobile County,Alabama,11.9,0.7532
+2018,1099,Monroe County,Alabama,11.6,0.7481
+2018,1101,Montgomery County,Alabama,14.2,0.8427
+2018,1103,Morgan County,Alabama,9.4,0.6895
+2018,1105,Perry County,Alabama,13.4,0.9949
+2018,1107,Pickens County,Alabama,10.9,0.9207
+2018,1109,Pike County,Alabama,10.3,0.9016
+2018,1111,Randolph County,Alabama,11,0.7191
+2018,1113,Russell County,Alabama,10,0.9115
+2018,1117,Shelby County,Alabama,8.8,0.1169
+2018,1115,St. Clair County,Alabama,10.6,0.3656
+2018,1119,Sumter County,Alabama,11.7,0.9557
+2018,1121,Talladega County,Alabama,14.2,0.8736
+2018,1123,Tallapoosa County,Alabama,10.6,0.8863
+2018,1125,Tuscaloosa County,Alabama,11.8,0.6255
+2018,1127,Walker County,Alabama,11.2,0.7452
+2018,1129,Washington County,Alabama,11.2,0.7303
+2018,1131,Wilcox County,Alabama,11.2,0.928
+2018,1133,Winston County,Alabama,10.2,0.7025
+2018,2013,Aleutians East Borough,Alaska,9.3,0.5803
+2018,2016,Aleutians West Census Area,Alaska,7.9,0.4927
+2018,2020,Anchorage Municipality,Alaska,8.8,0.4602
+2018,2050,Bethel Census Area,Alaska,8,0.9748
+2018,2060,Bristol Bay Borough,Alaska,9.1,0.3525
+2018,2068,Denali Borough,Alaska,6.8,0.101
+2018,2070,Dillingham Census Area,Alaska,8.2,0.8682
+2018,2090,Fairbanks North Star Borough,Alaska,7.9,0.3446
+2018,2100,Haines Borough,Alaska,7.3,0.207
+2018,2105,Hoonah-Angoon Census Area,Alaska,7.3,0.4178
+2018,2110,Juneau City and Borough,Alaska,6.3,0.2987
+2018,2122,Kenai Peninsula Borough,Alaska,8.2,0.4073
+2018,2130,Ketchikan Gateway Borough,Alaska,8.8,0.5548
+2018,2150,Kodiak Island Borough,Alaska,7,0.7006
+2018,2158,Kusilvak Census Area,Alaska,7.4,0.9334
+2018,2164,Lake and Peninsula Borough,Alaska,8.5,0.7978
+2018,2170,Matanuska-Susitna Borough,Alaska,8.2,0.3172
+2018,2180,Nome Census Area,Alaska,7.8,0.9299
+2018,2185,North Slope Borough,Alaska,7.5,0.7344
+2018,2188,Northwest Arctic Borough,Alaska,11.6,0.9354
+2018,2195,Petersburg Census Area,Alaska,9.2,0.665
+2018,2198,Prince of Wales-Hyder Censu,Alaska,9.3,0.7662
+2018,2220,Sitka City and Borough,Alaska,7.3,0.4022
+2018,2230,Skagway Municipality,Alaska,6.6,0.1685
+2018,2240,Southeast Fairbanks Census Area,Alaska,8.7,0.5838
+2018,2261,Valdez-Cordova Census Area,Alaska,6.2,0.2704
+2018,2275,Wrangell City and Borough,Alaska,8.4,0.5618
+2018,2282,Yakutat City and Borough,Alaska,9,0.5873
+2018,2290,Yukon-Koyukuk Census Area,Alaska,9.9,0.8812
+2018,4001,Apache County,Arizona,12.3,0.9885
+2018,4003,Cochise County,Arizona,7.8,0.9064
+2018,4005,Coconino County,Arizona,6.9,0.7131
+2018,4007,Gila County,Arizona,9,0.899
+2018,4009,Graham County,Arizona,11,0.964
+2018,4011,Greenlee County,Arizona,8.8,0.6188
+2018,4012,La Paz County,Arizona,9.9,0.9236
+2018,4013,Maricopa County,Arizona,8,0.6354
+2018,4015,Mohave County,Arizona,9.4,0.8624
+2018,4017,Navajo County,Arizona,11.5,0.9955
+2018,4019,Pima County,Arizona,7.6,0.8828
+2018,4021,Pinal County,Arizona,11.7,0.8592
+2018,4023,Santa Cruz County,Arizona,9.4,0.9318
+2018,4025,Yavapai County,Arizona,7.2,0.521
+2018,4027,Yuma County,Arizona,9.5,0.9895
+2018,5001,Arkansas County,Arkansas,10,0.7787
+2018,5003,Ashley County,Arkansas,9.9,0.8576
+2018,5005,Baxter County,Arkansas,9.1,0.2793
+2018,5007,Benton County,Arkansas,9.1,0.2707
+2018,5009,Boone County,Arkansas,8,0.4379
+2018,5011,Bradley County,Arkansas,8.8,0.9803
+2018,5013,Calhoun County,Arkansas,6.8,0.5481
+2018,5015,Carroll County,Arkansas,6.5,0.5952
+2018,5017,Chicot County,Arkansas,7.6,0.9968
+2018,5019,Clark County,Arkansas,10.4,0.7892
+2018,5021,Clay County,Arkansas,7.6,0.6529
+2018,5023,Cleburne County,Arkansas,8.4,0.2083
+2018,5025,Cleveland County,Arkansas,8.5,0.5643
+2018,5027,Columbia County,Arkansas,13.6,0.9398
+2018,5029,Conway County,Arkansas,9.4,0.7589
+2018,5031,Craighead County,Arkansas,11.1,0.8041
+2018,5033,Crawford County,Arkansas,10.7,0.6105
+2018,5035,Crittenden County,Arkansas,12.7,0.9341
+2018,5037,Cross County,Arkansas,10.9,0.7013
+2018,5039,Dallas County,Arkansas,9.6,0.8777
+2018,5041,Desha County,Arkansas,8.8,0.9596
+2018,5043,Drew County,Arkansas,10.3,0.801
+2018,5045,Faulkner County,Arkansas,10.3,0.4774
+2018,5047,Franklin County,Arkansas,8.8,0.5943
+2018,5049,Fulton County,Arkansas,7.1,0.6688
+2018,5051,Garland County,Arkansas,10.2,0.828
+2018,5053,Grant County,Arkansas,9,0.3541
+2018,5055,Greene County,Arkansas,9.8,0.5834
+2018,5057,Hempstead County,Arkansas,10.6,0.9468
+2018,5059,Hot Spring County,Arkansas,10.5,0.8188
+2018,5061,Howard County,Arkansas,8,0.9045
+2018,5063,Independence County,Arkansas,7.6,0.7525
+2018,5065,Izard County,Arkansas,9,0.5697
+2018,5067,Jackson County,Arkansas,8.3,0.765
+2018,5069,Jefferson County,Arkansas,11.9,0.9436
+2018,5071,Johnson County,Arkansas,9.6,0.8768
+2018,5073,Lafayette County,Arkansas,8.1,0.7898
+2018,5075,Lawrence County,Arkansas,9.3,0.6471
+2018,5077,Lee County,Arkansas,10,0.9656
+2018,5079,Lincoln County,Arkansas,9.6,0.8134
+2018,5081,Little River County,Arkansas,8.5,0.6306
+2018,5083,Logan County,Arkansas,7.7,0.8045
+2018,5085,Lonoke County,Arkansas,9.7,0.3309
+2018,5087,Madison County,Arkansas,9.1,0.6535
+2018,5089,Marion County,Arkansas,8,0.5175
+2018,5091,Miller County,Arkansas,10.4,0.9124
+2018,5093,Mississippi County,Arkansas,14.9,0.9554
+2018,5095,Monroe County,Arkansas,8.2,0.8516
+2018,5097,Montgomery County,Arkansas,7.9,0.7
+2018,5099,Nevada County,Arkansas,9.6,0.8841
+2018,5101,Newton County,Arkansas,9.7,0.2815
+2018,5103,Ouachita County,Arkansas,11.1,0.8656
+2018,5105,Perry County,Arkansas,8.9,0.636
+2018,5107,Phillips County,Arkansas,13.6,0.9239
+2018,5109,Pike County,Arkansas,10,0.7124
+2018,5111,Poinsett County,Arkansas,11.7,0.8268
+2018,5113,Polk County,Arkansas,8.6,0.8949
+2018,5115,Pope County,Arkansas,11.5,0.7936
+2018,5117,Prairie County,Arkansas,7.7,0.6548
+2018,5119,Pulaski County,Arkansas,10.8,0.6287
+2018,5121,Randolph County,Arkansas,11,0.7166
+2018,5125,Saline County,Arkansas,8.7,0.3325
+2018,5127,Scott County,Arkansas,7.7,0.8873
+2018,5129,Searcy County,Arkansas,9.5,0.4376
+2018,5131,Sebastian County,Arkansas,11,0.8328
+2018,5133,Sevier County,Arkansas,11.7,0.7675
+2018,5135,Sharp County,Arkansas,9.2,0.6191
+2018,5123,St. Francis County,Arkansas,11.4,0.9691
+2018,5137,Stone County,Arkansas,8.6,0.5102
+2018,5139,Union County,Arkansas,10.4,0.8054
+2018,5141,Van Buren County,Arkansas,9.1,0.7226
+2018,5143,Washington County,Arkansas,9.9,0.6745
+2018,5145,White County,Arkansas,11.9,0.7446
+2018,5147,Woodruff County,Arkansas,8.5,0.849
+2018,5149,Yell County,Arkansas,9.5,0.8783
+2018,6001,Alameda County,California,6.6,0.4701
+2018,6003,Alpine County,California,7.3,0.7287
+2018,6005,Amador County,California,8.3,0.5334
+2018,6007,Butte County,California,8.9,0.8064
+2018,6009,Calaveras County,California,7.2,0.235
+2018,6011,Colusa County,California,7.1,0.7436
+2018,6013,Contra Costa County,California,7.6,0.4057
+2018,6015,Del Norte County,California,8.1,0.9713
+2018,6017,El Dorado County,California,6.4,0.1838
+2018,6019,Fresno County,California,9.6,0.9611
+2018,6021,Glenn County,California,7,0.8895
+2018,6023,Humboldt County,California,7.4,0.7605
+2018,6025,Imperial County,California,9.5,0.9978
+2018,6027,Inyo County,California,7.1,0.5701
+2018,6029,Kern County,California,10.5,0.9659
+2018,6031,Kings County,California,10.5,0.9707
+2018,6033,Lake County,California,8.2,0.9178
+2018,6035,Lassen County,California,7.7,0.5997
+2018,6037,Los Angeles County,California,9.1,0.7682
+2018,6039,Madera County,California,9.4,0.9541
+2018,6041,Marin County,California,6,0.2701
+2018,6043,Mariposa County,California,7.4,0.5293
+2018,6045,Mendocino County,California,8.3,0.8818
+2018,6047,Merced County,California,11.3,0.9717
+2018,6049,Modoc County,California,7.5,0.7516
+2018,6051,Mono County,California,6.8,0.1408
+2018,6053,Monterey County,California,8.2,0.799
+2018,6055,Napa County,California,7.5,0.5051
+2018,6057,Nevada County,California,5.1,0.2045
+2018,6059,Orange County,California,8,0.4191
+2018,6061,Placer County,California,6,0.1519
+2018,6063,Plumas County,California,6.9,0.2653
+2018,6065,Riverside County,California,9.6,0.7939
+2018,6067,Sacramento County,California,8.9,0.7338
+2018,6069,San Benito County,California,7.8,0.5245
+2018,6071,San Bernardino County,California,11.1,0.901
+2018,6073,San Diego County,California,7.8,0.5596
+2018,6075,San Francisco County,California,6.6,0.3911
+2018,6077,San Joaquin County,California,9.9,0.8892
+2018,6079,San Luis Obispo County,California,7.8,0.3739
+2018,6081,San Mateo County,California,7.4,0.265
+2018,6083,Santa Barbara County,California,6.8,0.7111
+2018,6085,Santa Clara County,California,8.3,0.3557
+2018,6087,Santa Cruz County,California,5.7,0.543
+2018,6089,Shasta County,California,8,0.7022
+2018,6091,Sierra County,California,6.9,0.0452
+2018,6093,Siskiyou County,California,6.6,0.7223
+2018,6095,Solano County,California,8.1,0.5911
+2018,6097,Sonoma County,California,7.8,0.4035
+2018,6099,Stanislaus County,California,9.4,0.8675
+2018,6101,Sutter County,California,9.6,0.8822
+2018,6103,Tehama County,California,7.7,0.9624
+2018,6105,Trinity County,California,6.9,0.7411
+2018,6107,Tulare County,California,10.2,0.9417
+2018,6109,Tuolumne County,California,6.7,0.4688
+2018,6111,Ventura County,California,7.6,0.4828
+2018,6113,Yolo County,California,7.8,0.6768
+2018,6115,Yuba County,California,8,0.942
+2018,8001,Adams County,Colorado,7.7,0.5892
+2018,8003,Alamosa County,Colorado,8.1,0.9452
+2018,8005,Arapahoe County,Colorado,7.1,0.2662
+2018,8007,Archuleta County,Colorado,5.6,0.257
+2018,8009,Baca County,Colorado,7.6,0.6086
+2018,8011,Bent County,Colorado,7.4,0.8981
+2018,8013,Boulder County,Colorado,5.5,0.1704
+2018,8014,Broomfield County,Colorado,6.1,0.049
+2018,8015,Chaffee County,Colorado,6.1,0.2389
+2018,8017,Cheyenne County,Colorado,7.3,0.2589
+2018,8019,Clear Creek County,Colorado,6.8,0.0197
+2018,8021,Conejos County,Colorado,8.1,0.9325
+2018,8023,Costilla County,Colorado,8.7,0.9379
+2018,8025,Crowley County,Colorado,7.5,0.893
+2018,8027,Custer County,Colorado,6.3,0.2433
+2018,8029,Delta County,Colorado,7,0.6866
+2018,8031,Denver County,Colorado,6.3,0.4197
+2018,8033,Dolores County,Colorado,6.9,0.1516
+2018,8035,Douglas County,Colorado,5.5,0.015
+2018,8037,Eagle County,Colorado,5.2,0.1369
+2018,8041,El Paso County,Colorado,6.6,0.3927
+2018,8039,Elbert County,Colorado,5.3,0
+2018,8043,Fremont County,Colorado,7.6,0.6525
+2018,8045,Garfield County,Colorado,5.7,0.351
+2018,8047,Gilpin County,Colorado,6.5,0.0022
+2018,8049,Grand County,Colorado,5.6,0.0987
+2018,8051,Gunnison County,Colorado,6.1,0.1392
+2018,8053,Hinsdale County,Colorado,6.9,0.0624
+2018,8055,Huerfano County,Colorado,7,0.5955
+2018,8057,Jackson County,Colorado,7.4,0.1137
+2018,8059,Jefferson County,Colorado,5.7,0.0627
+2018,8061,Kiowa County,Colorado,6.8,0.3188
+2018,8063,Kit Carson County,Colorado,6.9,0.5153
+2018,8067,La Plata County,Colorado,5.4,0.1086
+2018,8065,Lake County,Colorado,6.8,0.4452
+2018,8069,Larimer County,Colorado,5.3,0.1194
+2018,8071,Las Animas County,Colorado,9.3,0.8373
+2018,8073,Lincoln County,Colorado,6.8,0.4857
+2018,8075,Logan County,Colorado,8.1,0.628
+2018,8077,Mesa County,Colorado,7.1,0.5755
+2018,8079,Mineral County,Colorado,6.7,0.0261
+2018,8081,Moffat County,Colorado,7.1,0.5471
+2018,8083,Montezuma County,Colorado,8.6,0.4946
+2018,8085,Montrose County,Colorado,6.8,0.7153
+2018,8087,Morgan County,Colorado,7,0.7414
+2018,8089,Otero County,Colorado,8.5,0.9561
+2018,8091,Ouray County,Colorado,6.7,0.0239
+2018,8093,Park County,Colorado,5.9,0.0006
+2018,8095,Phillips County,Colorado,6.9,0.2955
+2018,8097,Pitkin County,Colorado,5.9,0.0656
+2018,8099,Prowers County,Colorado,7.8,0.9392
+2018,8101,Pueblo County,Colorado,9.1,0.8669
+2018,8103,Rio Blanco County,Colorado,6.3,0.3401
+2018,8105,Rio Grande County,Colorado,7.6,0.9586
+2018,8107,Routt County,Colorado,5.9,0.0634
+2018,8109,Saguache County,Colorado,8.2,0.807
+2018,8111,San Juan County,Colorado,7,0.1283
+2018,8113,San Miguel County,Colorado,6.5,0.0331
+2018,8115,Sedgwick County,Colorado,6.8,0.6936
+2018,8117,Summit County,Colorado,5.6,0.0707
+2018,8119,Teller County,Colorado,5.7,0.0729
+2018,8121,Washington County,Colorado,7.5,0.2822
+2018,8123,Weld County,Colorado,8,0.3994
+2018,8125,Yuma County,Colorado,6.8,0.5637
+2018,9001,Fairfield County,Connecticut,6.4,0.4497
+2018,9003,Hartford County,Connecticut,8.7,0.515
+2018,9005,Litchfield County,Connecticut,6.2,0.0818
+2018,9007,Middlesex County,Connecticut,6.5,0.1182
+2018,9009,New Haven County,Connecticut,8.8,0.5223
+2018,9011,New London County,Connecticut,8.3,0.3561
+2018,9013,Tolland County,Connecticut,7.2,0.0694
+2018,9015,Windham County,Connecticut,9.6,0.4232
 2018,10001,Kent County,Delaware,12.4,0.7268
 2018,10003,New Castle County,Delaware,9.5,0.3761
 2018,10005,Sussex County,Delaware,9.4,0.4019
@@ -3142,4 +3140,4 @@ Year,County_FIPS,County,State,Diagnosed Diabetes Percentage,Overall SVI
 2018,56041,Uinta County,Wyoming,8.4,0.4522
 2018,56043,Washakie County,Wyoming,7.4,0.3732
 2018,56045,Weston County,Wyoming,7.6,0.3475
-US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,,,,,
